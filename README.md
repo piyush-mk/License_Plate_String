@@ -1,4 +1,4 @@
-# License Plate Detecction, Extraction, and Output to string
+# License Plate Detection, Extraction, and Output to string
 License plate cropping from regular images and predicting the license number through neural network
 <br/><br/>
 ## Problem Sttatement:
