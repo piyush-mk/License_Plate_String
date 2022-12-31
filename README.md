@@ -10,12 +10,12 @@ In this task, you need to identify the license number plate in every image and c
 ## Sample Output of the extraction and prediction of license plate:
 <br/><br/>
 ### Original Image:
-![Original](/Output/og1.png)
+![Original](/Output/og.png)
 <br/><br/>
 ### Cropped Image:
-![cropped](/Output/crop1.png)
+![cropped](/Output/crop.png)
 <br/><br/>
 ### Final String Output:
-![string](/Output/string_out.png)
+![string](/Output/string_out1.png)
 <br/><br/>
 #### For AI Deployed competition
